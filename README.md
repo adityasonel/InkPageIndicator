@@ -1,5 +1,11 @@
+<img src="https://github.com/adityasonel/InkPageIndicator/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" height="200" width="200"/>
+
 # InkPageIndicator
 An ink inspired widget for indicating pages in a ViewPager.
+
+## Screenshots
+
+<img src="https://github.com/adityasonel/InkPageIndicator/blob/master/screenshots/inkpage-indicator.mp4" width="200" height="350" />
 
 ## How to use
 

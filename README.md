@@ -1,6 +1,8 @@
 <img src="https://github.com/adityasonel/InkPageIndicator/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" height="200" width="200"/>
 
 # InkPageIndicator
+[![](https://jitpack.io/v/adityasonel/InkPageIndicator.svg)](https://jitpack.io/#adityasonel/InkPageIndicator)
+
 An ink inspired widget for indicating pages in a ViewPager.
 
 ## Screenshots
@@ -22,7 +24,7 @@ allprojects {
 
 then add
 ````
-implementation 'com.github.adityasonel:IosTextView:0.2.1'
+implementation 'com.github.adityasonel:InkPageIndicator:$latest-version
 ````
 in your app's `build.gradle`
 
